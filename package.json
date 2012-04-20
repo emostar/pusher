@@ -9,7 +9,7 @@
     "nodeunit": "~> 0.5.1"
   },
   "keywords": ["pusher", "websockets"],
-  "repository": "git://github.com/fabrik42/pusher",
+  "repository": "git://github.com/geeklist/pusher",
   "main": "index",
   "engines": { "node": ">= 0.4.3" }
 }
